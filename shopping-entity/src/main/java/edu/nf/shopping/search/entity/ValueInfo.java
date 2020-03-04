@@ -1,4 +1,6 @@
-package edu.nf.shopping.goods.entity;
+package edu.nf.shopping.search.entity;
+
+import edu.nf.shopping.search.entity.KeyInfo;
 
 /**
  * @author Achine

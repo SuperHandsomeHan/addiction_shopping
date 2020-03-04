@@ -21,7 +21,9 @@ spring:
       testOnReturn: false
       maxPoolPreparedStatementPerConnectionSize: 0
       # 监控
-      stat-view-servlet:
+      stat-view-
+
+      servlet:
         url-pattern: /druid/*
         reset-enable: false
         login-username: admin

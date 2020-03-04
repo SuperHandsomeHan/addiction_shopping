@@ -12,6 +12,7 @@ public class GoodsInfo {
     private Date shelfTime;
     private Byte isShelf;
     private String spuId;
+    private GoodsType goodsType;
 
     public String getGoodsId() {
         return goodsId;
@@ -52,5 +53,12 @@ public class GoodsInfo {
     public void setSpuId(String spuId) {
         this.spuId = spuId;
     }
-    
+
+    public GoodsType getGoodsType() {
+        return goodsType;
+    }
+
+    public void setGoodsType(GoodsType goodsType) {
+        this.goodsType = goodsType;
+    }
 }

@@ -1,6 +1,4 @@
-package edu.nf.shopping.goods.entity;
-
-import edu.nf.shopping.search.entity.GoodsType;
+package edu.nf.shopping.search.entity;
 
 /**
  * @author Achine
