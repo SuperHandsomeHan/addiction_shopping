@@ -7,17 +7,17 @@ import java.math.BigDecimal;
  * @date 2020/2/27
  */
 public class SkuInfo {
-    private Integer skuId;
+    private String skuId;
     private BigDecimal skuPrice;
     private Integer sku_stock;
     private Integer skuSales;
     private GoodsInfo good;
 
-    public Integer getSkuId() {
+    public String getSkuId() {
         return skuId;
     }
 
-    public void setSkuId(Integer skuId) {
+    public void setSkuId(String skuId) {
         this.skuId = skuId;
     }
 

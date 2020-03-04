@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb02d6e-fc7c-45ca-a89d-ecac2f052bf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/order/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/order/entity/OrderState.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/goods/entity/SkuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/goods/entity/SkuInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583255935658</updated>
-      <workItem from="1583255939173" duration="9305000" />
+      <workItem from="1583255939173" duration="10579000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1583289658775</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583316255873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Order and OrderState class">
+      <created>1583316664333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583316664333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <MESSAGE value="update search and goods entity" />
-    <option name="LAST_COMMIT_MESSAGE" value="update search and goods entity" />
+    <MESSAGE value="add Order and OrderState class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Order and OrderState class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1583316608538">
@@ -132,10 +139,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="592" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583262170934" />
-    <state x="500" y="114" key="CommitChangelistDialog2" timestamp="1583316252320">
+    <state x="500" y="114" key="CommitChangelistDialog2" timestamp="1583316660971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="500" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583316252320" />
+    <state x="500" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583316660970" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583292329166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -144,10 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583256034669" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583316257373">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583316667395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583316257373" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583316667395" />
     <state x="654" y="322" key="git4idea.merge.GitPullDialog" timestamp="1583289736790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
