@@ -1,7 +1,5 @@
 package edu.nf.shopping.goods.entity;
 
-import edu.nf.shopping.search.entity.GoodsInfo;
-
 /**
  * @author Achine
  * @date 2020/2/26

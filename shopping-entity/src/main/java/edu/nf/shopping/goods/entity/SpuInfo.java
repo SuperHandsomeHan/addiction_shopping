@@ -1,4 +1,4 @@
-package edu.nf.shopping.search.entity;
+package edu.nf.shopping.goods.entity;
 
 import java.util.Date;
 

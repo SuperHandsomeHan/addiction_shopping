@@ -1,7 +1,5 @@
 package edu.nf.shopping.goods.entity;
 
-import edu.nf.shopping.search.entity.GoodsInfo;
-
 import java.math.BigDecimal;
 
 /**

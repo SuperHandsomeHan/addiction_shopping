@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb02d6e-fc7c-45ca-a89d-ecac2f052bf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopping-dao/src/main/resources/application-dao.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-dao/src/main/resources/application-dao.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/goods/entity/KeyInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/KeyInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/goods/entity/KeyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/KeyType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/goods/entity/ValueInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/ValueInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/GoodsInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/GoodsInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shopping-entity/src/main/java/edu/nf/shopping/search/entity/GoodsRelation.java" beforeDir="false" />
     </list>
@@ -87,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583255935658</updated>
-      <workItem from="1583255939173" duration="8570000" />
+      <workItem from="1583255939173" duration="8855000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1583289658775</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583289658776</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update search and goods entity">
+      <created>1583315962567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583315962567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+    <MESSAGE value="update search and goods entity" />
+    <option name="LAST_COMMIT_MESSAGE" value="update search and goods entity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1583315872064">
@@ -127,10 +139,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583256034669" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583289661585">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1583316156686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583289661585" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583316156686" />
     <state x="654" y="322" key="git4idea.merge.GitPullDialog" timestamp="1583289736790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
