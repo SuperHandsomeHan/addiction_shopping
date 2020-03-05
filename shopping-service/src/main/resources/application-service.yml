@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: www.88k88.cn
+    port: 6379
+    password: qq520340
+    database: 1
+    timeout: 30000s
