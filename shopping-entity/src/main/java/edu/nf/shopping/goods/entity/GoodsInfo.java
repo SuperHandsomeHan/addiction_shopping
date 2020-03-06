@@ -11,7 +11,7 @@ public class GoodsInfo {
     private String goodsName;
     private Date shelfTime;
     private Byte isShelf;
-    private String spuId;
+    private SpuInfo spuInfo;
     private GoodsType goodsType;
 
     public String getGoodsId() {
@@ -46,12 +46,12 @@ public class GoodsInfo {
         this.isShelf = isShelf;
     }
 
-    public String getSpuId() {
-        return spuId;
+    public SpuInfo getSpuInfo() {
+        return spuInfo;
     }
 
-    public void setSpuId(String spuId) {
-        this.spuId = spuId;
+    public void setSpuInfo(SpuInfo spuInfo) {
+        this.spuInfo = spuInfo;
     }
 
     public GoodsType getGoodsType() {

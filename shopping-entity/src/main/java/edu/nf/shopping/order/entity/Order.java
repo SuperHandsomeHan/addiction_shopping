@@ -13,6 +13,7 @@ public class Order {
     private BigDecimal cheapPrice;
     private BigDecimal transportPirce;
     private Date buyTime;
+    private String buyUser;
     private String buyAdmin;
     private Integer collectRegion;
     private String collectAddress;
@@ -58,6 +59,14 @@ public class Order {
 
     public void setBuyTime(Date buyTime) {
         this.buyTime = buyTime;
+    }
+
+    public String getBuyUser() {
+        return buyUser;
+    }
+
+    public void setBuyUser(String buyUser) {
+        this.buyUser = buyUser;
     }
 
     public String getBuyAdmin() {
